@@ -57,5 +57,4 @@ If updates to TimeNeeded introduce new features that change how permissions or f
 ## 9. Contact Us
 If you have any questions or feedback regarding this Privacy Policy or TimeNeeded, please contact:
 
-**Developer:** Igor Nawojski  
-**Email:** igor.nawojski@gmail.com
+**Email:** igonawdev@gmail.com
